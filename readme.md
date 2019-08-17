@@ -6,6 +6,7 @@
 
 
 
-- [C++面向对象(1)](https://www.bilibili.com/video/av62937139/)
-- [C++面向对象(2)](https://www.bilibili.com/video/av63940360/)
+- [上篇 C++面向对象(1)](https://www.bilibili.com/video/av62937139/)
+- [上篇 C++面向对象(2)](https://www.bilibili.com/video/av63940360/)
+- [上篇 C++面向对象(3)](https://www.bilibili.com/video/av64155595)
 
