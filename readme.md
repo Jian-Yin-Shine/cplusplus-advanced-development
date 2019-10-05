@@ -9,4 +9,6 @@
 - [上篇 C++面向对象(1)](https://www.bilibili.com/video/av62937139/)
 - [上篇 C++面向对象(2)](https://www.bilibili.com/video/av63940360/)
 - [上篇 C++面向对象(3)](https://www.bilibili.com/video/av64155595)
+- [下篇C++面向对象2(1)](https://www.bilibili.com/video/av70153706/)
+- [下篇C++面向对象2(2)](https://www.bilibili.com/video/av70214302)
 
